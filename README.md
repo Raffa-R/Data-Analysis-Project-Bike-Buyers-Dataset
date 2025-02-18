@@ -21,3 +21,4 @@ The dataset is called Bike Buyers Dataset. The dataset has 13 columns and 1026 r
 12. Age : Age of the buyers
 13. Purchased Bike: Yes/No, whether or not the buyers buy a bike
 
+![Data Overview](https://github.com/Raffa-R/Data-Analysis-Project-Bike-Buyers-Dataset/blob/main/Assets/Data%20Overview.PNG)
