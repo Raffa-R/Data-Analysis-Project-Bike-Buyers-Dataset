@@ -3,7 +3,7 @@
 ## Dashboard Preview
 ![Dashboard](https://github.com/Raffa-R/Data-Analysis-Project-Bike-Buyers-Dataset/blob/main/Assets/Dashboard.PNG)
 
-This is preview of the dashboard that is the output or the result of this Data Analysis Project.
+This is preview of the dashboard that will be the output or the result of this Data Analysis Project.
 
 ## Data Overview
 The dataset is called Bike Buyers Dataset. The dataset has 13 columns and 1026 rows and has details of buyers from different backgrounds and whether or not they buy a bike. Here are the columns names:
