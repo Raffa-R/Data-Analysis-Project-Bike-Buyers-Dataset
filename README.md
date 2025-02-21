@@ -22,3 +22,10 @@ The dataset is called Bike Buyers Dataset. The dataset has 13 columns and 1026 r
 13. Purchased Bike: Yes/No, whether or not the buyers buy a bike
 
 ![Data Overview](https://github.com/Raffa-R/Data-Analysis-Project-Bike-Buyers-Dataset/blob/main/Assets/Data%20Overview.PNG)
+
+@inproceedings{bossard14,
+  title = {Food-101 -- Mining Discriminative Components with Random Forests},
+  author = {Bossard, Lukas and Guillaumin, Matthieu and Van Gool, Luc},
+  booktitle = {European Conference on Computer Vision},
+  year = {2014}
+}
